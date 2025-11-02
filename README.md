@@ -36,6 +36,7 @@ My goal is to <b>bridge finance and technology in meaningful ways</b>, deliverin
   <code>JavaScript (ES6+)</code>
   <code>TypeScript</code>
   <code>React.js</code>
+  <code>Next.js</code>
   <code>Tailwind CSS</code>
   <code>Bootstrap</code>
   <code>Python (Django)</code>
@@ -68,6 +69,7 @@ My goal is to <b>bridge finance and technology in meaningful ways</b>, deliverin
 
 <p align="center">
   <!-- Row 2 -->
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
