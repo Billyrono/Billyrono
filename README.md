@@ -27,15 +27,34 @@ My goal is to <b>bridge finance and technology in meaningful ways</b>, deliverin
 
 <div align="center">
 
+### 💻 Skills
+
+<div align="center">
+
 #### 🧠 Languages & Frameworks
 <p>
-  HTML5 • CSS3 • JavaScript (ES6+) • TypeScript • React.js • Tailwind CSS • Bootstrap • Python (Django) • SQL • R • C++
+  <code>HTML5</code>
+  <code>CSS3</code>
+  <code>JavaScript (ES6+)</code>
+  <code>TypeScript</code>
+  <code>React.js</code>
+  <code>Tailwind CSS</code>
+  <code>Bootstrap</code>
+  <code>Python (Django)</code>
+  <code>SQL</code>
+  <code>R</code>
+  <code>C++</code>
 </p>
 
 #### 🛠️ Tools & Platforms
 <p>
-  Git • GitHub • VS Code
+  <code>Git</code>
+  <code>GitHub</code>
+  <code>VS Code</code>
 </p>
+
+</div>
+
 
 ---
 
