@@ -112,8 +112,8 @@ I am particularly interested in projects that combine **finance and tech**, such
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Billyrono&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Billyrono&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-six-ecru-21.vercel.app/api?username=Billyrono&show_icons=true&theme=radical&count_private=true" alt="Billyrono's GitHub Stats" />
+  <img src="https://github-readme-stats-six-ecru-21.vercel.app/api/top-langs/?username=Billyrono&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
 </p>
 
 ---
