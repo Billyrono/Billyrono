@@ -129,14 +129,14 @@ I am particularly interested in projects that combine **finance and tech**, such
 - Continuously grow as a developer, designer, and innovator  
 
 ---
-
-### How to Reach Me
+<div align="center">
+### <i>How to Reach Me</i>
 <p>
-  <a href="mailto:billyrono46@gmail.com">Email</a> | 
-  <a href="https://www.linkedin.com/in/billy-rono-9b3984374/">LinkedIn</a> | 
-  <a href="https://x.com/Billy_Rono">Twitter</a>
+  <i><a href="mailto:billyrono46@gmail.com">Email</a></i>   | 
+  <i><a href="https://www.linkedin.com/in/billy-rono-9b3984374/">LinkedIn</a></i> | 
+  <i><a href="https://x.com/Billy_Rono">Twitter</a></i>
 </p>
-
+</div>  
 ---
 
 <p align="center">
