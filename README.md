@@ -2,12 +2,12 @@
 <!--   GITHUB PROFILE README  -->
 <!-- ========================= -->
 
-<h1 align="center">Hi 👋, I'm Billy Mark Rono</h1>
+<h1 align="center">Hi, I'm Billy (Mark) Rono</h1>
 <h3 align="center">ALX Pro Front-End Developer | Financial Engineering Enthusiast | Passionate about Coding & Innovation</h3>
 
 ---
 
-### 🌟 About Me
+### About Me
 <p>
 I am a learner of the <b>ALX Pro Front-End Development</b> program, passionate about building creative and impactful web applications that merge finance and technology.
 </p>
@@ -23,15 +23,13 @@ My goal is to <b>bridge finance and technology in meaningful ways</b>, deliverin
 
 ---
 
-### 💻 Skills
+<div align="center">
+
+### Skills
 
 <div align="center">
 
-### 💻 Skills
-
-<div align="center">
-
-#### 🧠 Languages & Frameworks
+#### Languages & Frameworks
 <p>
   <code>HTML5</code>
   <code>CSS3</code>
@@ -46,7 +44,7 @@ My goal is to <b>bridge finance and technology in meaningful ways</b>, deliverin
   <code>C++</code>
 </p>
 
-#### 🛠️ Tools & Platforms
+#### Tools & Platforms
 <p>
   <code>Git</code>
   <code>GitHub</code>
@@ -58,7 +56,7 @@ My goal is to <b>bridge finance and technology in meaningful ways</b>, deliverin
 
 ---
 
-<!-- 🌟 Tech Badges Section -->
+<!--  Tech Badges Section -->
 <p align="center">
   <!-- Row 1 -->
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -98,7 +96,7 @@ My goal is to <b>bridge finance and technology in meaningful ways</b>, deliverin
 
 ---
 
-### 🚀 Projects I’m Excited About
+### Projects I’m Excited About
 I am particularly interested in projects that combine **finance and tech**, such as:  
 <ul>
   <li>Financial dashboards and analytics tools</li>
@@ -109,7 +107,7 @@ I am particularly interested in projects that combine **finance and tech**, such
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-six-ecru-21.vercel.app/api?username=Billyrono&show_icons=true&theme=radical&count_private=true" alt="Billyrono's GitHub Stats" />
@@ -118,21 +116,21 @@ I am particularly interested in projects that combine **finance and tech**, such
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 - Advanced React.js & component design  
 - TypeScript for scalable front-end apps  
 - Integrating financial APIs and dashboards  
 
 ---
 
-### 🎯 Career Goals
+### Career Goals
 - Build impactful front-end applications bridging finance & technology  
 - Collaborate on projects that combine creativity and real-world problem-solving  
 - Continuously grow as a developer, designer, and innovator  
 
 ---
 
-### 📫 How to Reach Me
+### How to Reach Me
 <p>
   <a href="mailto:billyrono46@gmail.com">Email</a> | 
   <a href="https://www.linkedin.com/in/billy-rono-9b3984374/">LinkedIn</a> | 
