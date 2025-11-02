@@ -130,13 +130,14 @@ I am particularly interested in projects that combine **finance and tech**, such
 
 ---
 <div align="center">
-### <i>How to Reach Me</i>
+<i>### How to Reach Me</i>
 <p>
   <i><a href="mailto:billyrono46@gmail.com">Email</a></i>   | 
   <i><a href="https://www.linkedin.com/in/billy-rono-9b3984374/">LinkedIn</a></i> | 
   <i><a href="https://x.com/Billy_Rono">Twitter</a></i>
 </p>
 </div>  
+
 ---
 
 <p align="center">
