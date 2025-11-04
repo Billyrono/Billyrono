@@ -9,7 +9,7 @@
 
 ### About Me
 <p>
-I am a learner of the <b>ALX Pro Front-End Development</b> program, passionate about building creative and impactful web applications that merge finance and technology.
+I am a <b>Front-End Developer</b>, passionate about building creative and impactful web applications that merge finance and technology.
 </p>
 
 <p>
