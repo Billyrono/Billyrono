@@ -2,7 +2,7 @@
 <!--   GITHUB PROFILE README  -->
 <!-- ========================= -->
 
-<h1 align="center">Hi, I'm Billy (Mark) Rono</h1>
+<h1 align="center">Hi, I'm Billy Rono</h1>
 <h3 align="center">ALX Pro Front-End Developer | Financial Engineering Enthusiast | Passionate about Coding & Innovation</h3>
 
 ---
