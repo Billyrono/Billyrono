@@ -88,12 +88,18 @@ My goal is to <b>bridge finance and technology in meaningful ways</b>, deliverin
 
 </div>
 
-  <h4>Tools & Platforms:</h4>
-  <ul>
-    <li>Figma, Canva, Taskade, ClickUp</li>
-    <li>Zoom, Google Calendar, CRM systems</li>
-    <li>Linux / Bash basics</li>
-  </ul>
+<div align="center">
+ ### Tools & Platforms
+  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+  ![Taskade](https://img.shields.io/badge/Taskade-FF6D00?style=for-the-badge&logo=taskade&logoColor=white)
+  ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+  ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+  ![Google Calendar](https://img.shields.io/badge/Google%20Calendar-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)
+  ![CRM](https://img.shields.io/badge/CRM-FF9900?style=for-the-badge&logo=salesforce&logoColor=white) *(choose specific CRM if needed)*
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 </div>
 
 ---
