@@ -144,9 +144,15 @@ I am particularly interested in projects that combine **finance and tech**, such
 
 <div align="center">
 <p>
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:billyrono46@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billy-rono-9b3984374/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Billy_Rono)
+<a href="mailto:billyrono46@gmail.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="24" height="24"/>
+</a>
+<a href="https://www.linkedin.com/in/billy-rono-9b3984374/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" height="24"/>
+</a>
+<a href="https://x.com/Billy_Rono">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="24" height="24"/>
+</a>
 
 </p>
 </div>  
