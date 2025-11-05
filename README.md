@@ -143,25 +143,18 @@ I am particularly interested in projects that combine **finance and tech**, such
 ### How to Reach Me
 
 <div align="center">
-<p>
-<div style="display: flex; gap: 20px; align-items: center; justify-content: center; margin-top: 10px;">
-  <!-- Email -->
-  <a href="mailto:billyrono46@gmail.com" title="Email">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="40" height="40" style="filter: invert(19%) sepia(94%) saturate(5451%) hue-rotate(357deg) brightness(97%) contrast(101%);" />
+<p align="center">
+  <a href="mailto:billyrono46@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/billy-rono-9b3984374/" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="filter: invert(27%) sepia(92%) saturate(3670%) hue-rotate(193deg) brightness(95%) contrast(90%);" />
+  <a href="https://www.linkedin.com/in/billy-rono-9b3984374/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <!-- Twitter -->
-  <a href="https://x.com/Billy_Rono" title="Twitter">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="40" height="40" style="filter: invert(62%) sepia(92%) saturate(519%) hue-rotate(174deg) brightness(95%) contrast(95%);" />
+  <a href="https://x.com/Billy_Rono">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-</div>
-
 </p>
+
 </div>  
 </div>
 
