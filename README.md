@@ -97,7 +97,7 @@ My goal is to <b>bridge finance and technology in meaningful ways</b>, deliverin
   ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
   ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
   ![Google Calendar](https://img.shields.io/badge/Google%20Calendar-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)
-  ![CRM](https://img.shields.io/badge/CRM-FF9900?style=for-the-badge&logo=salesforce&logoColor=white) *(choose specific CRM if needed)*
+  ![CRM](https://img.shields.io/badge/CRM-FF9900?style=for-the-badge&logo=salesforce&logoColor=white) 
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 </div>
@@ -144,9 +144,10 @@ I am particularly interested in projects that combine **finance and tech**, such
 
 <div align="center">
 <p>
-  <i><a href="mailto:billyrono46@gmail.com">Email</a></i>   | 
-  <i><a href="https://www.linkedin.com/in/billy-rono-9b3984374/">LinkedIn</a></i> | 
-  <i><a href="https://x.com/Billy_Rono">Twitter</a></i>
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:billyrono46@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billy-rono-9b3984374/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Billy_Rono)
+
 </p>
 </div>  
 </div>
