@@ -144,15 +144,22 @@ I am particularly interested in projects that combine **finance and tech**, such
 
 <div align="center">
 <p>
-<a href="mailto:billyrono46@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="24" height="24"/>
-</a>
-<a href="https://www.linkedin.com/in/billy-rono-9b3984374/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" height="24"/>
-</a>
-<a href="https://x.com/Billy_Rono">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="24" height="24"/>
-</a>
+<div style="display: flex; gap: 20px; align-items: center; justify-content: center; margin-top: 10px;">
+  <!-- Email -->
+  <a href="mailto:billyrono46@gmail.com" title="Email">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="40" height="40" style="filter: invert(19%) sepia(94%) saturate(5451%) hue-rotate(357deg) brightness(97%) contrast(101%);" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/billy-rono-9b3984374/" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="filter: invert(27%) sepia(92%) saturate(3670%) hue-rotate(193deg) brightness(95%) contrast(90%);" />
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://x.com/Billy_Rono" title="Twitter">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="40" height="40" style="filter: invert(62%) sepia(92%) saturate(519%) hue-rotate(174deg) brightness(95%) contrast(95%);" />
+  </a>
+</div>
 
 </p>
 </div>  
