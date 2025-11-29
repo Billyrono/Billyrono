@@ -9,7 +9,7 @@
 
 ### About Me
 <p>
-I am a <b>Front-End Developer</b>, passionate about building creative and impactful web applications that merge finance and technology.
+I am a <b>Front-End Developer</b> passionate about building creative and impactful web applications that merge finance and technology.
 </p>
 
 <p>
@@ -17,7 +17,7 @@ My journey began in <b>financial engineering</b>, driven by curiosity about how 
 </p>
 
 <p>
-My goal is to <b>bridge finance and technology in meaningful ways</b>, delivering solutions that are both innovative and user-friendly, while continuously growing as a developer and problem solver.
+My goal is to <b>bridge finance and technology in meaningful ways</b>, delivering solutions that are both innovative and user-friendly while continuously growing as a developer and problem-solver.
 </p>
 
 
@@ -69,7 +69,7 @@ My goal is to <b>bridge finance and technology in meaningful ways</b>, deliverin
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
-
+</div>
 ---
 
 ### Projects I’m Excited About
