@@ -70,6 +70,7 @@ My goal is to <b>bridge finance and technology in meaningful ways</b>, deliverin
 <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 </div>
+
 ---
 
 ### Projects I’m Excited About
