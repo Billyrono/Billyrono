@@ -129,6 +129,6 @@ I am particularly interested in projects that combine **finance and tech**, such
 
 ---
 
-<p align="center">
->  <i>"Coding is my superpower, finance is my playground, innovation is my goal."</i>
+> <p align="center">
+<i>"Coding is my superpower, finance is my playground, innovation is my goal."</i>
 </p>
