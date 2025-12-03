@@ -3,13 +3,13 @@
 <!-- ========================= -->
 
 <h1 align="center">Hi, I'm Billy Rono</h1>
-<h3 align="center">Front-End Developer | Financial Engineering Enthusiast | Passionate about Coding & Innovation</h3>
+<h3 align="center">Full-stack Developer | Financial Engineering Enthusiast | Passionate about Coding & Innovation</h3>
 
 ---
 
 ### About Me
 <p>
-I am a <b>Front-End Developer</b> passionate about building creative and impactful web applications that merge finance and technology.
+I am a <b>Full-stack Developer</b> passionate about building creative and impactful web applications that merge finance and technology.
 </p>
 
 <p>
