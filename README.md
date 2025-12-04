@@ -3,7 +3,7 @@
 <!-- ========================= -->
 
 <h1 align="center">Hi, I'm Billy Rono</h1>
-<h3 align="center">Full-stack Developer | Financial Engineering Enthusiast | Passionate about Coding & Innovation</h3>
+<h3 align="center">Full-stack Developer | Financial Engineering Enthusiast </h3>
 
 ---
 
@@ -19,7 +19,6 @@ My journey began in <b>financial engineering</b>, driven by curiosity about how 
 <p>
 My goal is to <b>bridge finance and technology in meaningful ways</b>, delivering solutions that are both innovative and user-friendly while continuously growing as a developer and problem-solver.
 </p>
-
 
 ---
 
@@ -90,20 +89,6 @@ I am particularly interested in projects that combine **finance and tech**, such
   <img src="https://github-readme-stats-six-ecru-21.vercel.app/api?username=Billyrono&show_icons=true&theme=radical&count_private=true" alt="Billyrono's GitHub Stats" />
   <img src="https://github-readme-stats-six-ecru-21.vercel.app/api/top-langs/?username=Billyrono&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
 </p>
-
----
-
-### Currently Learning
-- Advanced React.js & component design  
-- TypeScript for scalable front-end apps  
-- Integrating financial APIs and dashboards  
-
----
-
-### Career Goals
-- Build impactful front-end applications bridging finance & technology  
-- Collaborate on projects that combine creativity and real-world problem-solving  
-- Continuously grow as a developer, designer, and innovator  
 
 ---
 
